@@ -1,6 +1,6 @@
-# //Matrix Rain Code//
+# ~//Matrix Rain Code//~
 
-**About**
+# About
 
 - Matrix digital rain, Matrix code or sometimes green rain, is the computer code featured in the Matrix series.
 
@@ -8,7 +8,7 @@
 
 - All four Matrix movies, as well as the spin-off The Animatrix episodes, open with the code. It is a characteristic mark of the franchise, similar to the opening crawl featured in the Star Wars franchise.
 
-**Background**
+# Background
 
 - In the film MATRIX , the code that comprises the Matrix itself is frequently represented as downward-flowing green characters. This code uses a custom typeface designed by Simon Whiteley,which includes mirror images of half-width kana characters and Western Latin letters and numerals. In a 2017 interview at CNET, he attributed the design to his wife, who comes from Japan, and added, "I like to tell everybody that The Matrix's code is made out of Japanese sushi recipes".
 
@@ -20,7 +20,7 @@
 
 - No official version of the code's typeface actually used in the Matrix trilogy and in the website for the game Path of Neo has been released. Several imitations have been made, mostly in the form of screensavers.
 
-Goals
+# Goals
 
 There are four kinds of Matrix effects people call "digital rain":
 
@@ -33,7 +33,7 @@ There are four kinds of Matrix effects people call "digital rain":
 4. The "dialing" visualization at the opening of The Matrix and Resurrections
    A motivated fan can attempt to portray any of these. However, this project focuses specifically on #1 and #3— an endless effect, visually stunning and mystifying, that feels right at home on any screen.
 
-**The following criteria guided the development process:**
+# The following criteria guided the development process:
 
 **Get the right glyphs.** Like the actual ones. By now everyone's heard how the Matrix glyphs are some treatment of katakana, but they also include a few characters from Susan Kare's Chicago typeface. The Matrix glyphs in this project come from the source: cleaned up vectors from an old SWF from the promotional site for an official Matrix product, archived back in 2007. That's how deep this rabbit hole goes, friends. (Please support the Internet Archive!)
 
