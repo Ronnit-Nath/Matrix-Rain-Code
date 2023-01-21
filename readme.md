@@ -49,7 +49,7 @@ There are four kinds of Matrix effects people call "digital rain":
 
 **Capture the proper rhythm of raindrops falling**. Multiple raindrops often occupy a column at the same time, and they may have different speeds, but they can never collide. This project achieves this with a sawtooth wave, modulating the width of the teeth to keep things interesting. The tips of those teeth— the cells in the grid where the sawtooth dips— are where we put the "cursors" (or "tracers") at the bottom of each raindrop.
 
-**Capture the glyph cycling sequence. The symbols in Reloaded and Revolutions'**opening titles, which were at one point the highest fidelity versions of the 2D effect, change according to a repeating sequence (see the unofficial glyph database). This is only a technical detail, and no longer drives the glyph cycle in this project, but it can be used to analyze promotional material.
+**Capture the glyph cycling sequence**. The symbols in Reloaded and Revolutions'\*\*opening titles, which were at one point the highest fidelity versions of the 2D effect, change according to a repeating sequence (see the unofficial glyph database). This is only a technical detail, and no longer drives the glyph cycle in this project, but it can be used to analyze promotional material.
 
 **Whip up some artistic license and imagine the "previous" Matrix versions**. The sequels describe a paradisiacal predecessor to the Matrix that was too idyllic, and another earlier, nightmarish Hobbesian version that proved too campy. They depict some programs running older, differently colored code. So, this project dares to speculate how these old Matrix versions looked and acted.
 
